@@ -59,7 +59,7 @@ class DyanamicArray(object):
 
 	def make_array(self, capacity):
 		"""
-		creates and return a new array with provided capacity
+		creates and return a new array with provided capacity.
 		"""
 		return (capacity * ctypes.py_object) ()
 
